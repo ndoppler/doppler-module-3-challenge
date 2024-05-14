@@ -18,5 +18,3 @@ I also utilized the Xpert Learning Assistant provided by the University of Minne
 ## Website Images
 
 <img title="First Website Image" alt="First Website Image" src="/assets/images/Website Image 1.png">
-<img title="Second Website Image" alt="Second Website Image" src="/assets/images/Website Image 2.png">
-<img title="Third Website Image" alt="Third Website Image" src="/assets/images/Website Image 3.png">
