@@ -47,7 +47,15 @@ console.log(`The average employee salary between our ${employeesArray.length} is
 
 // Select a random employee
 const getRandomEmployee = function (employeesArray) {
+
     // TODO: Select and display a random employee
+    function getRandomInt(max) {
+        return Math.floor(Math.random() * employeesArray.length);
+      }
+    
+      let employeeRandomizer = getRandomInt()
+    
+    console.log(`Congratulations to ${employeesArray[employeeRandomizer].firstName} ${employeesArray[employeeRandomizer].lastName}, our random drawing winner!`);
 }
 
 /*
