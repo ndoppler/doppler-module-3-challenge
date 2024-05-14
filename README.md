@@ -17,4 +17,6 @@ I also utilized the Xpert Learning Assistant provided by the University of Minne
 
 ## Website Images
 
-<img title="First Website Image" alt="First Website Image" src="/assets/images/Website Image 1.png">
+<img title="First Website Image" alt="Landing Website Image" src="/assets/images/LandingWebsiteImage.png">
+<img title="First Website Image" alt= "Displaying Website Functionality" src="/assets/images/FunctionalWindowWorking.png">
+<img title="First Website Image" alt="Landing Website Image" src="/assets/images/LandingWebsiteImage.png">

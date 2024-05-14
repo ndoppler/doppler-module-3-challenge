@@ -42,7 +42,7 @@ for (i = 0; i < employeesArray.length; ++i) {
    employeesSum += employeesArray[i].salary;
 }
 
-console.log(`The average employee salary between our ${employeesArray.length} is $${employeesSum/employeesArray.length}.`);
+console.log(`The average employee salary between our ${employeesArray.length} employee(s) is $${employeesSum/employeesArray.length}.`);
 }
 
 // Select a random employee
