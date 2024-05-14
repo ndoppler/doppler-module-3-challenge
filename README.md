@@ -1,8 +1,12 @@
 # doppler-module-3-challenge
 
 ## Purpose
+The purpose of this challenge was to write functions that would coalesce with already written code. This allows us to learn how to contribute to an existing project as a developer. 
 
 ## Description
+This website allows an Payroll Manager to input employee's information (First and Last Name) and their Salary. It then provides the Manager with the average employee salary, displayed in the console log. It also allows the Manager to do a randomized raffle drawing that is based on the entered employees.
+
+The functionality includes a correction for non-numeric salaries, and strips any salaries of non-numeric keys.  It also allows the Manager to enter as many employees as they would like in one iteration.
 
 ## Usage
 To run this project, please run the source code on a local host or host it on the internet. To see current state of the project, please visit: [https://ndoppler.github.io/doppler-module-3-challenge/](https://ndoppler.github.io/doppler-module-3-challenge/)
